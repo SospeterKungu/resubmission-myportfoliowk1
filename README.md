@@ -14,7 +14,7 @@ To run this project needs basic programming tools like
 The know how to use the above tools is vital so as to check the code has been written correctly with all commits noted.
 
 ### Link to Github live pages
-https://github.com/SospeterKungu/resubmission-myportfoliowk1.git
+https://sospeterkungu.github.io/resubmission-myportfoliowk1/
 
 ### Copyright and License information
 This re-submission portfolio is licensed under Sospeter inc (c) 2020
