@@ -6,7 +6,7 @@ body {
   background-color: black;
 }
 .row .right-side-container {
-  background-image: url("myphoto.jpeg");
+  background-image: url("mypotrait.jpeg");
   background-size: cover;
   background-position: center;
   margin: 10px;
@@ -18,7 +18,7 @@ body {
   color: white;
   font-style: bold;
 }
-h1 {
+.h1 {
   font-style: italic;
   text-align: center;
 }
